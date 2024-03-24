@@ -3,7 +3,6 @@ packaging_format = 2
 id = "mindmaps"
 name = "Mindmaps"
 description.en = "Tool for making mind maps"
-description.fr = "Outil de creation de cartes mentales"
 
 version = "0.0.20201010~ynh4"
 
@@ -11,9 +10,9 @@ maintainers = []
 
 [upstream]
 license = "AGPL-3.0"
-website = "https://www.mindmaps.app/"
-demo = "https://www.mindmaps.app/"
-code = "https://github.com/drichard/mindmaps"
+website = "https://app.mindmapmaker.org"
+demo = "https://app.mindmapmaker.org"
+code = "https://github.com/cormar/Mind-Map-Maker"
 
 [integration]
 yunohost = ">= 11.2"
